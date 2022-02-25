@@ -1,0 +1,163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from a friend in the North to his friend in the West, concerning the electing of Parliament-men</title>
+            <author>T. S.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58718</idno>
+            <idno type="STC">Wing S167A</idno>
+            <idno type="STC">ESTC R219803</idno>
+            <idno type="EEBO-CITATION">99831250</idno>
+            <idno type="PROQUEST">99831250</idno>
+            <idno type="VID">35713</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58718)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35713)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2041:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from a friend in the North to his friend in the West, concerning the electing of Parliament-men</title>
+                  <author>T. S.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1689?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed at end: T. S.</note>
+                  <note>Place of publication from and date conjectured by Wing.</note>
+                  <note>Reproduction of the original in the Heavy print show-through, affecting legibility.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:35713:1"/>
+            <!-- PDF PAGE 95 -->
+            <pb n="1" facs="tcp:35713:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 95 -->
+            <head>A LETTER FROM A FRIEND in the NORTH TO HIS FRIEND in the WEST, Concerning the ELECTING of Parliament-men.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>YOurs ſent by Mr. Z. I received, wherein you are plea<g ref="char:EOLhyphen"/>ſed, to communicate to me, your Senſe of the pre<g ref="char:EOLhyphen"/>ſent Affairs, and your Opinion and Reſolution con<g ref="char:EOLhyphen"/>cerning the choice of fit Members to ſerve in the next Parliament: I am ſorry, ſo good a Friend, and one who ſo lately ſeem'd to abhor the carriage of ſome hot heads, ſhould again, and ſo quickly ſuffer your ſelf to be deluded, as to think any who are Enemies to the Eſtabliſhed Religion, can at this time, be the only fit Men to ſerve as Members of Parliament. Neither could I have believed this (of one of your deep Judgment, and who ſo lately told me, you never de<g ref="char:EOLhyphen"/>ſired to ſee Presbytery in the Saddle; that you highly hono<g ref="char:EOLhyphen"/>red his Majeſty, and ſeem'd well ſatisfied in the <hi>Church of Eng<g ref="char:EOLhyphen"/>land,</hi> and hop'd we ſhould ſhortly all unite in maintenance of the <hi>Proteſtant Religion</hi>) had I not received it from your own Pen.
+<pb n="1" facs="tcp:35713:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 96 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:35713:3"/>
+               <!-- PDF PAGE 97 -->I have, as you deſired me, impartially conſidered, and duly weighed the ſeveral Reaſons you offer for the Choice of ſuch Men as you call <hi>Sound Proteſtants,</hi> but no great Friends to the <hi>Church of England.</hi> And to deal plainly with you, do not find my ſelf thereby at all inclin'd to the Choice of any ſuch Men; but rather am confirm'd in the quite contrary Opinion, and declare ſincerely that I think none ſo fit to ſerve in this <hi>Parliament,</hi> as the <hi>Sober and Sound Church of Eng<g ref="char:EOLhyphen"/>land</hi> Men, and that as for other, ſo not the leaſt, for thoſe very reaſons you in your Letters ſeem to argue the quite contrary.</p>
+            <p>
+               <hi>Firſt,</hi> You ſay, that it was chiefly upon their account and in favour of the <hi>Church</hi> of <hi>England,</hi> that the late <hi>Parliament</hi> was ſo ſuddenly Prorogued, and afterwards Diſſolved: and that the Diſſenters did highly reſent ſuch Proceedings, with ſome other unhanſome Reflections upon his Majeſty. Now ſup<g ref="char:EOLhyphen"/>poſing this was the real Cauſe of the late Prorogation (which yet you are not certain of, nor will I ſo much as gueſs at) in my opinion, this is a ſufficient reaſon, that none are fit to be choſen, but ſuch as are <hi>Sober Church Men;</hi> unleſs thoſe whom the King (free I hope from all ſuſpicion of Popery, or from having any correſpondence with the late King) hath thought the chief Men, who by their heats and unſeaſonable diviſions in the Houſe, retard our Affairs and hinder his Majeſty from the vigorous Proſecution of the War, for the Reducti<g ref="char:EOLhyphen"/>on of <hi>Ireland,</hi> and bringing down the haughty <hi>French<g ref="char:EOLhyphen"/>man,</hi> ſhall be thought the only fit Men to ſerve in Parlia<g ref="char:EOLhyphen"/>ment. Sir, you cannot forget what you and others, ſo lately diſcourſed of, declaring the neceſſity of the ſpeedy and firm uniting of all <hi>Proteſtants,</hi> and that forgetting all our former unhappy feuds and animoſities, fomented by the <hi>Pa<g ref="char:EOLhyphen"/>piſts,</hi> we ſhould all joyntly aſſiſt the King againſt all his Enemies whatſoever, which yet is evident can never be done, but by a good and full Agreement of the King and Parliament; which is not likely to continue long, if only ſuch Men muſt be choſen, as you your ſelf confeſs, His Majeſty is ſomewhat diſpleaſed at. How His Majeſty carried himſelf, and what he
+<pb n="3" facs="tcp:35713:3"/>
+               <!-- PDF PAGE 97 -->hath done for this Nation and the <hi>Proteſtant Religion,</hi> is evi<g ref="char:EOLhyphen"/>dent to all the World; and not long ago, a little before the laſt Seſſion, you ſeem'd highly ſatisfied in all his Proceedings; nor can I forget what chearful Apprehenſions you had of his happy Reign, with hands lift up, thanking God that now we had got a true <hi>Proteſtant</hi> King, and one that did really deſign the good of his Subjects, and would never go about to deprive his People of any of their juſt and legal Priviledges. Nor can you (I think) inſtance in any thing, wherein he ſeems to have changed his mind, or in the leaſt to deviate from his firſt Meaſures of ſecuring the <hi>Proteſtant Intereſt,</hi> and making the Nation happy; ſetting his Heart upon reconciling all our differences, and by all means endea<g ref="char:EOLhyphen"/>vouring to unite all his <hi>Proteſtant Subjects.</hi> And is this the Gratitude we owe to the glorious Inſtrument, of our late great deliverance from <hi>Popery</hi> and <hi>Arbitrary Power?</hi> and do we then to requite his Care, and the many Dangers he already hath and is ſtill ready, to expoſe his Royal Perſon to, for our ſafety, chuſe ſuch to ſerve in his great Councils, as we think are Enemies to that <hi>Church,</hi> which he daily finds, and hath more then once publickly declared the chiefeſt Support of the <hi>Pro<g ref="char:EOLhyphen"/>teſtant Cauſe?</hi> and ſhall any whom he hath ſo willingly indulg'd, and is ready (if it ſtand with the Safety of the Nation) to in<g ref="char:EOLhyphen"/>dulge further, make no other uſe of their Liberty, then by chuſing ſuch to repreſent them, as are ready to wreſt from his Majeſty any of his undoubted Prerogatives, or any part of that Regal Power, which by the Laws of this Nation is inhe<g ref="char:EOLhyphen"/>rent in the Crown? or ſhall they refuſe to make choice of any <hi>Church</hi> of <hi>England Men</hi> to ſerve in <hi>Parliament,</hi> becauſe his Majeſty looks upon them as his beſt Friends, and ſuch as are likely to uphold Monarchy, in all his juſt and ancient Rights, who yet (let me tell you) are no leſs careful, then thoſe you recommend, as the only Patriots, to keep it within its due Bounds, and according to the ancient and fundamental Laws of this Nation, which oblige the King to Rule, and the Peo<g ref="char:EOLhyphen"/>ple to Obey in ſuch ſort, and no otherwiſe, then by Law they
+<pb n="4" facs="tcp:35713:4"/>
+               <!-- PDF PAGE 98 -->are directed? either therefore you muſt confeſs you are jea<g ref="char:EOLhyphen"/>lous of the King, and dare no longer truſt him, as not de<g ref="char:EOLhyphen"/>ſigning the good of his People, for which you neither have, nor I'm ſure, can offer the leaſt ſhew of reaſon; or elſe you will wiſely make choice of ſuch, as he is likely to agree with, and exclude ſuch Men as you ſpeak of, in that (as you ſay) 'twas upon their account chiefly that the Parliament was at firſt Prorogued, and ſoon afterwards Diſſolved, ſince where there is the ſame cauſe, we in reaſon, may ſuſpect the ſame effect.</p>
+            <p>
+               <hi>Secondly,</hi> As little am I moved by your ſecond Reaſons, That many of the <hi>Church</hi> of <hi>England</hi> Men, are King <hi>James</hi>'s Men, or too great Friends to the Court Party; for as to the firſt, we cannot dive into Mens hearts and picklock their Thoughts, nor infallibly ſay who will prove true and who falſe; but if the Actions of Men are as Rules to judge Men by, I cannot ſee but that thoſe very Men you recommend as the only fit Men to ſerve in Parliament, were the only Men that complied with King <hi>James</hi>'s in ſeveral unjuſt and illegal Proceedings, and by their ſeveral Addreſſes did promiſe ſo to do. And though as you ſay, ſome Men of the <hi>Church</hi> of <hi>England,</hi> are ſo far King <hi>James</hi>'s Men, as not to take the Oaths of Allegiance to their preſent Majeſties, and that not a few of her Communion, even in Parliament were againſt the impoſing the ſaid Oaths, and that ſuch Men as you recommend and intend to chuſe, were thoſe who chiefly promoted them: yet I doubt not, but that many, nay, moſt of thoſe very Men who ſcrupled thoſe Oaths, and yet refuſe to take them, will prove as quiet and as ſerviceable in their Places as any of thoſe who at firſt ſet it on foot, and I can aſſure you that thoſe amongſt us, who in Parliament oppoſed the ſaid Oaths, and ſome other Things, ſince they have been enacted, have exhorted and perſwaded all their Neighbours and Tenants near them, to take the ſaid Oaths, and to live in all loyal and due Obedience to their Majeſties: And thoſe who have taken them, who are the great<g ref="char:EOLhyphen"/>eſt part, both by their Purſe, and by expoſing their Perſons to
+<pb n="5" facs="tcp:35713:4"/>
+               <!-- PDF PAGE 98 -->War and Dangers, are as ready and as willing to contribute to the Reduction of <hi>Ireland,</hi> and pulling down the <hi>French,</hi> as any Men whatſoever, though they had wiſh'd the ſaid Oaths had not been ſo rigorouſly impos'd, but that thoſe who were quiet, and were likely ſo to remain, might have been dealt more favourably with, than I am apt to think was by ſome Men in that Act deſign'd. Yea, it remains a Queſtion to this Day, whether the King has got any more Friends by that Act than he had before, <hi>&amp;c.</hi> However, there are Men enough of the Church of <hi>England</hi> who freely took the ſame Oaths, and will as faithfully keep them, as any of thoſe Per<g ref="char:EOLhyphen"/>ſons you endeavour to recommend, and ſo are not to be re<g ref="char:EOLhyphen"/>jected upon any ſuch Pretence. As to the other Part of the Objection, their being too great Bigots to the Court Party, not to mention how impartial his Majeſty hath been in diſtri<g ref="char:EOLhyphen"/>buting Places at Court or elſewhere, and how willing many of thoſe you recommend (upon pretence of being Patriots) are to engroſs all Places of Truſt and Profit; I cannot ima<g ref="char:EOLhyphen"/>gine why any Man ſhould be thought unfit to ſerve his Coun<g ref="char:EOLhyphen"/>try, becauſe he is true to his King; as if the Court and the Countries Intereſt were like the Juglers Glaſs, wherein the Angel and the Devil by turns went down as ſoon as the other got up. Indeed where a Prince apparently deſigns the Subverſion of our Government, and the introducing of Ar<g ref="char:EOLhyphen"/>bitrary and Deſpotical Power, as ſome of late have endea<g ref="char:EOLhyphen"/>vour'd: Thoſe who are Favorites and active Courtiers under ſuch Princes, are but juſtly ſuſpected as Tools to ſerve his Purpoſe, and ought not to be entruſted with the Peoples Li<g ref="char:EOLhyphen"/>berties; but as the Caſe now ſtands, the Court, the Camp, and the Country are but one and the ſame thing, they are all embarqu'd in the ſame Cauſe, they have all one common Ene<g ref="char:EOLhyphen"/>my, and are all equally engaged in one War, and have all the ſame Intereſt. Nor will you, I dare ſay, affirm, that he that is true to the King, is therefore unfit to be his Subjects Repre<g ref="char:EOLhyphen"/>ſentative, in that (and you lately ſaid no leſs) 'tis evident his Majeſty deſigns the Good and Welfare of his People as
+<pb n="6" facs="tcp:35713:5"/>
+               <!-- PDF PAGE 99 -->much, I had almoſt ſaid more than his own, and would make us Happy, if we can but be content to be ſo. What ſome peeviſh Men would have I cannot tell, nay, can they tell themſelves? Of ſo wreſtleſs a Spirit are ſome of this Nation, that I think what Q. <hi>Eliz.</hi> ſaid of the Puritans in her Days, is too true of them, <hi>viz.</hi> Such are the reſtleſs Spirits of thoſe Factious Men, that no Quiet can be expected from them. How lately have I heard ſome of that Party you recommend, de<g ref="char:EOLhyphen"/>clare ſolemnly, that had they but ſuch and ſuch Priviledges granted, were but ſuch and ſuch Laws repeal'd, and were they permitted to ſerve God in that way, which ſeem'd beſt to their Conſciences, how happy they ſhould think themſelves, how quiet, how peaceable, how content they ſhould live under ſuch a Government? yet when all this, and more is freely granted them, they remain as unſatisfy'd as before, and are ſtill wayward and out of Humor, though they know not at what: Nor ſhould you ask them, could they readily ſay what would pleaſe them, or at leaſt how long. What you add concern<g ref="char:EOLhyphen"/>ing the Carriage of ſome men in Places of Truſt, at the Landing of the late D. of <hi>M.</hi> is nothing to the purpoſe, ſince what they then acted was out of Principles of honeſt and true <hi>En<g ref="char:EOLhyphen"/>gliſh</hi> Loyalty; and had the late King been as true to them as they were to him, they would have had no Cauſe to repent of what they then ſo willingly acted. However, whether they that took Commiſſion from a King in poſſeſſion of the Crown, and as his Subjects, fought againſt thoſe who op<g ref="char:EOLhyphen"/>pos'd him, and were by the Supream Authority of the Nati<g ref="char:EOLhyphen"/>on declar'd Rebels; or they, who in Compliance to the ſame King, ſate in open Courts with profeſs'd Papiſts, and ſuch as had no legal Commiſſion, and who by their ſeveral Addreſſes, did give Thanks, and promiſed to ſtand by him, and aſſiſt him with their Lives and Fortunes, even then when he was exerciſing the Diſpenſing Power, and had declar'd no Perſon fit for any Office or Employment, who would not uphold his unbounded Sovereignty, thereby robbing his People of their Fundamental Right, be the fitter Men to ſerve in Parliament,
+<pb n="7" facs="tcp:35713:5"/>
+               <!-- PDF PAGE 99 -->I leave to you or any ſober Proteſtant to determine. And now perchance you expect I ſhould ſay ſomething in anſwer to the old Buſineſs you are ſo large upon, the perſecuting Spirit of the Church of <hi>England.</hi> But I thought the laſt time you and I were together, you had been fully ſatisfy'd in that Point, and had a good Opinion of the Church of <hi>England,</hi> and laid the Fault where it really was. However, I do not think this any reaſon to diſſwade me from chooſing ſuch Men at this time, ſince I do not believe they will ever go about to trouble the Diſſenters; nor am I acquainted with any ſober Church of <hi>England</hi> Man, that is at all diſpleaſed with that Liberty which Authority hath been pleaſed to allow them, unleſs it be for this reaſon, that you and others are ſo forward to chuſe them to ſerve in Parliament, which, in plain terms, is not Perſecution, but the Preſervation of our antient Govern<g ref="char:EOLhyphen"/>ment by Kings and Queens. And I am ſure no ſober Church of <hi>England</hi> Man thinks much that Men are ſuffer'd to enjoy their Conſciences, and have diſtinct and ſeparate Meetings, till they can be convinced of the Truth of what is taught and practiſed in this Church; but yet they are not willing that Men be permitted to undermine the Government, pull down Epiſcopacy, or deprive them of their antient Right of Sitting and Voting as Peers of the Realm, and which will be the next Work, of rendring the Monarch unſafe, or at leaſt ſo to fetter and ſhackle him, as he ſhall be unable to help us, or de<g ref="char:EOLhyphen"/>fend himſelf; And aſſure your ſelf, 'tis upon this account, and not from any Spirit of Perſecution, or a Deſire of depriving the Diſſenters of any juſt and ſafe Liberty; that we endea<g ref="char:EOLhyphen"/>vour to chooſe ſuch Men as are of the Church of <hi>England</hi>'s Communion. I had thought to have added ſome Reaſons which induce us to make choice of ſuch men as are no Enemies to the eſtabliſh'd Religion, but I ſee I have already exceeded the Bounds of an Epiſtle, and ſo will only add three or four Queries, which if you duly and impartially conſider, I hope you will change your Opinion; and both in point of Prudence and Intereſt, and as an Argument of that Truſt and Confi<g ref="char:EOLhyphen"/>dence
+<pb n="8" facs="tcp:35713:6"/>
+               <!-- PDF PAGE 100 -->you juſtly repoſe in his Sacred Majeſty, you will per<g ref="char:EOLhyphen"/>ſwade all in your Parts, to make choice of ſuch as are Friends, or at leaſt no profeſs'd Enemies to the Church of <hi>England:</hi> who happily agreeing with his Majeſty, you and I may in a ſhort time ſee the great Affairs of Peace and War brought to a happy Iſſue, to the beating down our Foes, the putting an end to the Expence and Charge we at preſent are neceſſarily at, the removing all our Fears and Jealouſies, and ſettling the Kingdom in a firm and laſting Peace.</p>
+            <p>Q. 1. <hi>Whether the King is not ty'd by his Coronation Oath, to maintain and uphold the Church of</hi> England, <hi>as by Law eſtabliſh'd?</hi>
+            </p>
+            <p>Q. 2. <hi>Whether a Diſagreement between the King and Parliament be not of dangerous Conſequence, advancing the</hi> French <hi>and Popiſh Intereſt, and tending to the utter Ruine of the Proteſtant Reli<g ref="char:EOLhyphen"/>gion?</hi>
+            </p>
+            <p>Q. 3. <hi>Whether the chooſing ſuch Men for Members to ſerve in this Parliament, as are Enemies to that Church which his Majeſty E<g ref="char:EOLhyphen"/>steems the chiefest ſupport of the Proteſtant Church, and which he hath often, and lately declared to stand by, be not a probable, yea, an inevitable Way to beget ſuch a fatal Diſagreement?</hi>
+            </p>
+            <p>Q. 4. <hi>Whether they that endeavour to chooſe ſuch Men, muſt not anſwer to God for all the Evils and Miſchiefs which will be the una<g ref="char:EOLhyphen"/>voidable Conſequence of ſuch a Diſagreement?</hi>
+            </p>
+            <p>In return to your pious Wiſhes, I beſeech God to open our Eyes, that we may at this Day diſcern the Things that belong to our Peace, that through Paſſion or Prejudice they may no longer be hid from us, which ſhall be the conſtant Prayer of Yours to command,</p>
+            <closer>
+               <signed>T. S.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
